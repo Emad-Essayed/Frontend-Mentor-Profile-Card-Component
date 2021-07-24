@@ -55,11 +55,7 @@ body {
   background-color: #fff;
   position: relative;
   border-radius: 1rem;
-}
-
-.card-bg img {
-  border-top-left-radius: 1rem;
-  border-top-right-radius: 1rem;
+  overflow: hidden;
 }
 
 .card-img {
@@ -70,6 +66,7 @@ body {
   padding: 5px;
   background-color: #fff;
   border-radius: 50%;
+  overflow: hidden;
 }
 
 .card-img img {
