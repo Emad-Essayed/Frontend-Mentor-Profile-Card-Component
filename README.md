@@ -9,7 +9,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ### Links
 
 - Solution URL: [https://github.com/Emad-Essayed/Frontend-Mentor-profile-card-component](https://github.com/Emad-Essayed/Frontend-Mentor-profile-card-component)
-- Live Site URL: [https://emad-essayed.github.io/Frontend-Mentor-profile-card-component/git](https://emad-essayed.github.io/Frontend-Mentor-profile-card-component/)
+- Live Site URL: [https://emad-essayed.github.io/Frontend-Mentor-Profile-Card-Component/](https://emad-essayed.github.io/Frontend-Mentor-Profile-Card-Component/)
 
 ### Built with
 
